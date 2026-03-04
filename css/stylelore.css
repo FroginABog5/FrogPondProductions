@@ -6,6 +6,10 @@ body {
     font-family: "Comico", sans serif;
 }
 
+.h2 {
+    font-family: "Comico", sans serif;
+}
+
 .text_box {
     background-color: hsl(0, 0%, 32%);
     color: antiquewhite;
@@ -16,6 +20,7 @@ body {
     border-color: black;
   
 }
+
 
 
 
