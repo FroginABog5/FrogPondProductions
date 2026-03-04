@@ -12,7 +12,6 @@ h1 {
 h2 {
 
     color: hsl(180, 100%, 50%);
-    display: inline-flex;
 }
 
 .text_box {
