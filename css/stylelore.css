@@ -10,6 +10,7 @@ h2 {
     color: hsl(180, 100%, 50%);
     text-shadow: 5px 5px 5px hsl(0, 0%, 0%);
     display: block;
+    font-family: "Comico", cursive;
 }
 
 .text_box {
