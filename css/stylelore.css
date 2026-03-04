@@ -2,11 +2,11 @@ body {
     background-color: #13265c;
 }
 
-.h1 {
+h1 {
     font-family: "Comico", sans serif;
 }
 
-.h2 {
+h2 {
     font-family: "Comico", sans serif;
 }
 
@@ -20,6 +20,7 @@ body {
     border-color: black;
   
 }
+
 
 
 
