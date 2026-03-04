@@ -9,11 +9,12 @@ function rollDice() {
     for (let i = 0; i < numOfDice; i++) {
         const value = Math.floor(Math.random() * typeOfDice) + 1; // uses the dropdown value
         values.push(value);
-        images.push(`<img src="../images/dicesides/d${typeOfDice}/${value}.png" alt="Dice ${value}">`);
+        images.push(`<img src="../../images/dicesides/d${typeOfDice}/${value}.png" alt="Dice ${value}">`);
     }
 
     diceResults.textContent = `Total: ${values.reduce((sum, a) => sum + a, 0)}`;
     diceImgs.innerHTML = images.join('');
 
 }
+
 
