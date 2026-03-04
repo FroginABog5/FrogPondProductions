@@ -2,21 +2,6 @@ body {
     background-color: #13265c;
 }
 
-@font-face {
-    font-family: "Comico";
-    src: url(Comico-Regular.otf);
-}
-
-h1 {
-    font-family: "Comico";
-    color: aqua;
-}
-
-h2 {
-    font-family: "Comico";
-    color: aqua;
-}
-
 .text_box {
     background-color: hsl(0, 0%, 32%);
     color: antiquewhite;
