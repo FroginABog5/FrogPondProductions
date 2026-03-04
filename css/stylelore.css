@@ -3,11 +3,13 @@ body {
 }
 
 h1 {
-    font-family: "Comico-Regular", sans-serif;
+    font-family: "Comico", sans-serif;
+    color: aqua;
 }
 
 h2 {
-    font-family: "Comico-Regular", sans-serif;
+    font-family: "Comico", sans-serif;
+    color: aqua;
 }
 
 .text_box {
