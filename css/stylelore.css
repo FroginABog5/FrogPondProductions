@@ -2,6 +2,20 @@ body {
     background-color: #13265c;
 }
 
+h1 {
+
+    color: hsl(180, 100%, 50%);
+    display: inline-flex;
+    align-content: center;
+}
+
+h2 {
+
+    color: hsl(180, 100%, 50%);
+    display: inline-flex;
+    align-content: center;
+}
+
 .text_box {
     background-color: hsl(0, 0%, 32%);
     color: antiquewhite;
