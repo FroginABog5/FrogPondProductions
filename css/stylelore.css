@@ -3,7 +3,7 @@ body {
 }
 
 .h1 {
-    font-family: "Comico";
+    font-family: "Comico", sans serif;
 }
 
 .text_box {
@@ -16,5 +16,6 @@ body {
     border-color: black;
   
 }
+
 
 
