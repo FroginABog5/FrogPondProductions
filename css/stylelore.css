@@ -8,8 +8,6 @@ h1 {
 
 h2 {
     color: hsl(180, 100%, 50%);
-    display: inline-flex;
-    align-content: top;
     text-shadow: 5px hsl(0, 0%, 0%);
 }
 
