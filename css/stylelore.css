@@ -13,7 +13,7 @@ h2 {
 
     color: hsl(180, 100%, 50%);
     display: inline-flex;
-    align-content: center;
+    align-content: top;
 }
 
 .text_box {
