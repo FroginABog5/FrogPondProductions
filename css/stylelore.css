@@ -2,6 +2,10 @@ body {
     background-color: #13265c;
 }
 
+.h1 {
+    font-family: "Comico"
+}
+
 .text_box {
     background-color: hsl(0, 0%, 32%);
     color: antiquewhite;
@@ -12,3 +16,4 @@ body {
     border-color: black;
   
 }
+
