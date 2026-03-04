@@ -8,6 +8,8 @@ h1 {
 
 h2 {
     color: hsl(180, 100%, 50%);
+    display: inline-flex;
+    align-content: top;
 }
 
 .text_box {
