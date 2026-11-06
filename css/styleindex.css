@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   margin: 0;
-  background-image: radial-gradient(circle, rgb(139, 50, 139), rgb(165, 95, 165), rgb(109, 109, 109));
+  background-image: radial-gradient(circle, rgb(139, 50, 139), rgb(165, 95, 165), rgb(78, 9, 92));
 }
 
 h1 {
