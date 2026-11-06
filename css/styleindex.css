@@ -12,6 +12,14 @@ h1 {
   font-style: normal;
 }
 
+h2 {
+  color: white;
+  text-align: center;
+  font-family: "Nova Round", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .logo {
   display: block;
   width: 200px;
