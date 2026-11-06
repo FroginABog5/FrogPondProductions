@@ -31,6 +31,32 @@ h1 {
   border-radius: 5px;
 }
 
+.Ento-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.Ento {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: aqua;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.Ento-content {
+  display: none;
+  text-align: center;
+}
+
+.Ento:hover .Ento-content {
+  display: block;
+
+}
+
 .dropdown-content {
   display: none;
   text-align: center;
@@ -54,22 +80,6 @@ button:hover {
 
 button:active {
  background-color:  hsl(146, 50%, 56%);
-}
-
-.diceroller {
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-  background-color: aqua;
-  padding: 5px;
-  border-radius: 5px;
-
-}
-
-.diceroller_container {
-  display: flex;
-  justify-content: center;
-  margin-top: 15px;
 }
 
 
