@@ -44,7 +44,7 @@ h2 {
 }
 
 .Ento-wrapper {
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   margin-top: 20px;
 }
@@ -65,7 +65,7 @@ h2 {
 }
 
 .Ento:hover .Ento-content {
-  display: inline-flex;
+  display: inline-block;
 
 }
 
