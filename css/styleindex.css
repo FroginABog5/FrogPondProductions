@@ -64,11 +64,16 @@ h2 {
   text-align: center;
 }
 
+.Ento:hover .Ento-content {
+  display: block;
+
+}
 
 .dropdown-content {
   display: none;
   text-align: center;
 }
+
 
 .dropdown:hover .dropdown-content {
   display: block;
