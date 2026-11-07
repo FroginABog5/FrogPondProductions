@@ -96,7 +96,7 @@ button:active {
 
 
 .ccbutton {
-  display: flex;
+  display: block;
   margin: auto;
   padding-top: 5px;
 }
