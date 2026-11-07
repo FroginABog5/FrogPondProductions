@@ -50,7 +50,7 @@ h2 {
 }
 
 .Ento {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
