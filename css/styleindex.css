@@ -44,7 +44,7 @@ h2 {
 }
 
 .Ento-wrapper {
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   margin-top: 20px;
 }
@@ -53,7 +53,6 @@ h2 {
   display: inline-flex;
   flex-direction: column;
   flex-wrap: wrap;
-  align-items: center;
   background-color: aqua;
   padding: 5px;
   border-radius: 5px;
@@ -61,12 +60,11 @@ h2 {
 
 .Ento-content {
   display: none;
-  text-align: center;
 }
 
 .Ento:hover .Ento-content {
-  display: inline-block;
-
+  display: block;
+  
 }
 
 .dropdown-content {
