@@ -51,7 +51,6 @@ h2 {
 
 .Ento {
   display: inline-flex;
-  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   background-color: aqua;
