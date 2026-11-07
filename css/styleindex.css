@@ -65,7 +65,7 @@ h2 {
 }
 
 .Ento:hover .Ento-content {
-  display: block;
+  display: inline-flex;
 
 }
 
