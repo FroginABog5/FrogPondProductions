@@ -37,7 +37,7 @@ h2 {
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  background-color: aqua;
+  background-color: rgb(116, 79, 119);
   padding: 5px;
   border-radius: 5px;
 }
@@ -52,7 +52,7 @@ h2 {
   display: inline-flex;
   flex-direction: column;
   align-items: center;
-  background-color: aqua;
+  background-color: rgb(116, 79, 119);
   padding: 5px;
   border-radius: 5px;
 }
@@ -83,18 +83,18 @@ h2 {
 
 button {
   width: 130px;
-  background-color: rgb(46, 138, 86);
+  background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
   font-family: "Nova Round", system-ui;
 }
 
 button:hover {
-  background-color: rgb(59, 176, 109);
+  background-color: rgb(177, 16, 209);
 }
 
 button:active {
- background-color:  rgb(87, 199, 135);
+ background-color:  rgb(177, 16, 209);
 }
 
 
@@ -108,7 +108,6 @@ button:active {
   display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
-  background-color: aqua;
   padding: 5px;
   border-radius: 5px;
 
