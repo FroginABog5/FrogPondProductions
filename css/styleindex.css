@@ -83,17 +83,18 @@ h2 {
 
 button {
   width: 130px;
-  background-color: hsl(146, 50%, 36%);
+  background-color: rgb(46, 138, 86);
   color: antiquewhite;
   cursor: pointer;
+  font-family: "Nova Round", system-ui;
 }
 
 button:hover {
-  background-color: hsl(146, 50%, 46%);
+  background-color: rgb(59, 176, 109);
 }
 
 button:active {
- background-color:  hsl(146, 50%, 56%);
+ background-color:  rgb(87, 199, 135);
 }
 
 
