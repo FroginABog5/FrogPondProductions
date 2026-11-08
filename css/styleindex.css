@@ -22,7 +22,8 @@ h2 {
 
 .logo {
   display: block;
-  width: 400px;
+  width: 600px;
+  height: 150px;
   margin: auto;
   border-radius: 25%;
 }
