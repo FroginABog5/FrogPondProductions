@@ -78,9 +78,9 @@ h2 {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: flex-start; /* keeps each box from stretching when another dropdown opens */
-  gap: 20px;
-  flex-wrap: wrap;         /* wraps to a new line on narrow screens */
+  align-items: flex-start; 
+  gap: 50px;
+  flex-wrap: wrap;         
 }
 
 
@@ -125,6 +125,8 @@ button:active {
 
 
 .ttrpg_maps {
+  width: 120px;
+  height: 60px;
   display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
