@@ -47,6 +47,7 @@ h2 {
   display: flex;
   justify-content: center;
   margin-top: 20px;
+  margin-right: 120px;
 }
 
 .Ento {
@@ -100,7 +101,6 @@ button {
   font-family: "Snowburst One", system-ui;
   font-weight: 400;
   font-style: normal;
-  margin-left: 25px;
 }
 
 .altumbutton {
