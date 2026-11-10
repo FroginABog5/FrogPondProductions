@@ -47,7 +47,7 @@ h2 {
   display: flex;
   justify-content: center;
   margin-top: 20px;
-  margin-right: 250px;
+  margin-right: 400px;
 }
 
 .Ento {
@@ -62,6 +62,12 @@ h2 {
 .Ento-content {
   display: none;
   text-align: center;
+}
+
+.altum-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
 }
 
 .Ento:hover .Ento-content {
