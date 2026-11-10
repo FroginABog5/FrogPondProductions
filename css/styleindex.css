@@ -100,7 +100,8 @@ button {
 }
 
  .entobutton {
-  width: 130px;
+  width: 120px;
+  height: 60px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -110,7 +111,8 @@ button {
 }
 
 .altumbutton {
-  width: 130px;
+  width: 120px;
+  height: 60px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -137,8 +139,6 @@ button:active {
   background-color: rgb(116, 79, 119);
   padding: 5px;
   border-radius: 5px;
-  margin-bottom: 75%;
-
 }
 
 .maps_container {
