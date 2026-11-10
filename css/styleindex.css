@@ -28,10 +28,10 @@ h2 {
   border-radius: 25%;
 }
 
-.dropdown-wrapper {
+.button-row {
   display: flex;
   justify-content: center;
-  margin-top: 15px;
+  flex-direction: row;
 }
 
 .dropdown {
@@ -43,12 +43,6 @@ h2 {
   border-radius: 5px;
 }
 
-.Ento-wrapper {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-  margin-right: 400px;
-}
 
 .Ento {
   display: inline-flex;
@@ -62,11 +56,6 @@ h2 {
 .Ento-content {
   display: none;
   text-align: center;
-}
-
-.altum-wrapper {
-  display: flex;
-  justify-content: center;
 }
 
 .Ento:hover .Ento-content {
@@ -138,11 +127,4 @@ button:active {
   background-color: rgb(116, 79, 119);
   padding: 5px;
   border-radius: 5px;
-}
-
-.maps_container {
-  display: flex;
-  justify-content: center;
-  margin-top: 5px;
-  margin-left: 400px;
 }
