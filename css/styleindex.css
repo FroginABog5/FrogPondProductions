@@ -100,6 +100,7 @@ button {
   font-family: "Snowburst One", system-ui;
   font-weight: 400;
   font-style: normal;
+  margin-left: 25px;
 }
 
 .altumbutton {
