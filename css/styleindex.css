@@ -95,7 +95,19 @@ button {
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
-  font-family: "Butterfly Kids", cursive;
+  font-family: "Snowburst One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.altumbutton {
+  width: 130px;
+  background-color: rgb(177, 16, 209);
+  color: antiquewhite;
+  cursor: pointer;
+  font-family: "Just Me Again Down Here", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 button:hover {
@@ -107,11 +119,6 @@ button:active {
 }
 
 
-.ccbutton {
-  display: block;
-  margin: auto;
-  padding-top: 5px;
-}
 
 .ttrpg_maps {
   display: inline-flex;
