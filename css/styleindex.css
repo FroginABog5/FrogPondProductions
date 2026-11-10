@@ -29,10 +29,10 @@ h2 {
 }
 
 .button-row {
-  display: flex;
-  justify-content: center;
+  display: inline-flex;
+  align-items: center;
   flex-direction: row;
-  flex: auto;
+  
 }
 
 .dropdown {
