@@ -79,7 +79,6 @@ h2 {
   flex-direction: row;
   justify-content: center;
   align-items: flex-start; 
-  padding: 5px;
   flex-wrap: wrap;         
 }
 
