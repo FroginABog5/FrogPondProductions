@@ -28,6 +28,11 @@ h2 {
   border-radius: 25%;
 }
 
+.dropdown-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
 
 .dropdown {
   display: inline-flex;
@@ -38,6 +43,12 @@ h2 {
   border-radius: 5px;
 }
 
+.Ento-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-right: 400px;
+}
 
 .Ento {
   display: inline-flex;
@@ -53,6 +64,10 @@ h2 {
   text-align: center;
 }
 
+.altum-wrapper {
+  display: flex;
+  justify-content: center;
+}
 
 .Ento:hover .Ento-content {
   display: flex;
@@ -74,18 +89,9 @@ h2 {
 
 }
 
-.button-row {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-start; 
-  flex-wrap: wrap;         
-}
 
-
-.mapsbutton {
-  width: 120px;
-  height: 30px;
+button {
+  width: 130px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -94,7 +100,7 @@ h2 {
 
  .entobutton {
   width: 120px;
-  height: 30px;
+  height: 60px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -105,7 +111,7 @@ h2 {
 
 .altumbutton {
   width: 120px;
-  height: 30px;
+  height: 60px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -124,6 +130,7 @@ button:active {
 }
 
 
+
 .ttrpg_maps {
   display: inline-flex;
   flex-wrap: wrap;
@@ -133,3 +140,9 @@ button:active {
   border-radius: 5px;
 }
 
+.maps_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  margin-left: 400px;
+}
