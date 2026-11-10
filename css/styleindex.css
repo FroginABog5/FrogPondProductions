@@ -90,13 +90,7 @@ button {
   font-family: "Nova Round", system-ui;
 }
 
-ento-button {
-  width: 130px;
-  background-color: rgb(177, 16, 209);
-  color: antiquewhite;
-  cursor: pointer;
-  font-family: "Kranky", serif;
-}
+ 
 
 button:hover {
   background-color: rgb(177, 16, 209);
