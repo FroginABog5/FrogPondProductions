@@ -79,7 +79,7 @@ h2 {
   flex-direction: row;
   justify-content: center;
   align-items: flex-start; 
-  column-gap: 150px;
+  padding: 5px;
   flex-wrap: wrap;         
 }
 
