@@ -95,7 +95,7 @@ button {
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
-  font-family: "Kranky", serif;
+  font-family: "Snowburst One", system-ui;
 }
 
 button:hover {
