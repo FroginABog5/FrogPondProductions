@@ -144,6 +144,6 @@ button:active {
 .maps_container {
   display: flex;
   justify-content: center;
-  margin-bottom: 55px;
+  margin-bottom: 100px;
   margin-left: 400px;
 }
