@@ -90,7 +90,7 @@ button {
   font-family: "Nova Round", system-ui;
 }
 
- entobutton {
+ .entobutton {
   width: 130px;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
