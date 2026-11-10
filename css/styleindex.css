@@ -29,7 +29,7 @@ h2 {
 }
 
 .button-row {
-  display: block;
+  display: inline-block;
   align-items: center;
   flex-direction: row;
   margin: 25px;
