@@ -98,7 +98,6 @@ button {
   font-family: "Snowburst One", system-ui;
   font-weight: 400;
   font-style: normal;
-  font-size: 25%;
 }
 
 .altumbutton {
@@ -109,6 +108,7 @@ button {
   font-family: "Just Me Again Down Here", cursive;
   font-weight: 400;
   font-style: normal;
+  font-size: larger 5%;
 }
 
 button:hover {
