@@ -80,8 +80,9 @@ h2 {
 }
 
 
-button {
-  width: 130px;
+.maps {
+  width: 120px;
+  height: 60ox;
   background-color: rgb(177, 16, 209);
   color: antiquewhite;
   cursor: pointer;
@@ -122,8 +123,6 @@ button:active {
 
 
 .ttrpg_maps {
-  width: 120px;
-  height: 60px;
   display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
