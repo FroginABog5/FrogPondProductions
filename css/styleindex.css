@@ -122,6 +122,8 @@ button:active {
 
 
 .ttrpg_maps {
+  width: 120px;
+  height: 60px;
   display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
