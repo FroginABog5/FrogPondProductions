@@ -130,3 +130,35 @@ button:active {
   padding: 5px;
   border-radius: 5px;
 }
+
+.modules {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(116, 79, 119);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.module-content {
+  display: none;
+  text-align: center;
+}
+
+.modules:hover .module-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+ .module-button {
+  width: 120px;
+  height: 60px;
+  background-color: rgb(177, 16, 209);
+  color: antiquewhite;
+  cursor: pointer;
+  font-family: "Nova Round", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
